@@ -5,7 +5,6 @@ public class ArraysInitials {
         System.out.println(friendsNames.length);
 
         for (int i = 0; i < friendsNames.length; i++)
-
         {
             System.out.println(friendsNames[i]);
         }
