@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CurrencyConvertor {
+public class CurrencyConverter {
     public static void main(String[] args) {
         System.out.println("Choose 1, For USD to INR");
         System.out.println("Choose 2, For INR to USD");
