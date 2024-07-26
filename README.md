@@ -1,4 +1,4 @@
-# CDSJavaTraining
+# C DS JavaTraining
 
 ### Assigment 1:
 1. [Currency Converter](https://github.com/Satyxm/CDSJavaTraining/blob/master/CurrencyConverter.java)
