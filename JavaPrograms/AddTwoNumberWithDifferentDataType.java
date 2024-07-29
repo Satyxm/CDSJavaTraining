@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 public class AddTwoNumberWithDifferentDataType {
     public static void main(String[] args) {
         int a = 5;

@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 import java.util.Random;
 
 public class PasswordGenerator {

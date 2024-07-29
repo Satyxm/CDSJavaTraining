@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 import java.util.HashMap;
 import java.util.Map;
 

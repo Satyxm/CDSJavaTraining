@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 public class SortingDataArray {
     public static void main(String[] args) {
         int[] arr = {1, 24, 9, 11, 7, 3};

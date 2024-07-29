@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 public class ArrayInitials {
     public static void main(String[] args) {
         String[] friendsNames = {"Kendrick", "Tupac", "JayZ", "Biggie", "Eminem"};

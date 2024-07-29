@@ -1,3 +1,5 @@
+package JavaPrograms;
+
 public class AverageSumOfArray{
 
     public static void main(String[] args) {
